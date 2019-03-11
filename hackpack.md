@@ -1,4 +1,4 @@
-#Competitive Programming Hackpack
+# Competitive Programming Hackpack
 ## Oviedo High School
 
 ### Binary Index Tree
